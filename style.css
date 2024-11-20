@@ -73,6 +73,10 @@ main h2{
     font-family: Libre Bodoni;
 }
 
+footer{
+    margin-top: 70px;
+}
+
 #pratos img{
     width: 300px;
     height: 30vh;
